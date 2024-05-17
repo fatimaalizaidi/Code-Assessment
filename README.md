@@ -12,6 +12,9 @@ Challenge 01:  Fully responsive Figma to HTML/CSS/JS conversion without external
 
 5: After repo opens in the destination folder, go to the file structure then open the index.html file
 
+
 6: Right click anywhere in index.html then select "Open with Live Server". (make sure live server extension is installed)
 
 7: View the design on localhost!
+
+![127 0 0 1_5500_index html](https://github.com/fatimaalizaidi/Code-Assessment/assets/139489234/56a8800d-a456-4d0a-aaa7-8d3ab6acbc1f)
