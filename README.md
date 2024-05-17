@@ -1,5 +1,5 @@
 # Code-Assessment
-Challenge 01:  Figma to HTML/CSS/JS  without external CSS and JS libraries for code assessment.
+Challenge 01:  Fully responsive Figma to HTML/CSS/JS conversion without external CSS framework and JS libraries.
 
 # How to Clone This Repository:
 1: Copy URL of this repo from github.
