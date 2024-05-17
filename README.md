@@ -18,4 +18,4 @@ Challenge 01:  Fully responsive Figma to HTML/CSS/JS conversion without external
 7: View the design on localhost!
 
 ![127 0 0 1_5500_index html](https://github.com/fatimaalizaidi/Code-Assessment/assets/139489234/56a8800d-a456-4d0a-aaa7-8d3ab6acbc1f)
-![127 0 0 1_5500_index html (2)](https://github.com/fatimaalizaidi/Code-Assessment/assets/139489234/68a2c2c0-fac4-42d9-ab3d-0e7d5da21758)
+
